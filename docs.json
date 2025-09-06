@@ -3,9 +3,7 @@
   "theme": "aspen",
   "name": "Voxelox Hosting",
   "colors": {
-    "primary": "#3700B3",
-    "light": "#6200EE",
-    "dark": "#BB86FC"
+    "primary": "#3994A8"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -14,7 +12,7 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Getting Started",
             "pages": [
               "index",
               "quickstart",
