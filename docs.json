@@ -3,7 +3,9 @@
   "theme": "aspen",
   "name": "Voxelox Hosting",
   "colors": {
-    "primary": "#ff0000"
+    "primary": "#3700B3",
+    "light": "#6200EE",
+    "dark": "#BB86FC"
   },
   "favicon": "/favicon.svg",
   "navigation": {
