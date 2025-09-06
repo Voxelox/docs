@@ -15,6 +15,14 @@
         "pages": [
           "index"
         ]
+      },
+      {
+        "group": "VPS Guides",
+        "pages": []
+      },
+      {
+        "group": "Discord Hosting Guides",
+        "pages": []
       }
     ],
     "anchors": [
