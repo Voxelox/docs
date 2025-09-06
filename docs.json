@@ -3,7 +3,9 @@
   "theme": "aspen",
   "name": "Voxelox Hosting",
   "colors": {
-    "primary": "#3994A8"
+    "primary": "#3994A8",
+    "light": "#3994A8",
+    "dark": "#3994A8"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -14,53 +16,7 @@
           {
             "group": "Getting Started",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "index"
             ]
           }
         ]
@@ -70,18 +26,23 @@
       "anchors": [
         {
           "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "href": "https://docs.voxelox.com",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "anchor": "Client Area",
+          "href": "https://clients.voxelox.com",
+          "icon": "user"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "VPS Panel",
+          "href": "https://vps.voxelox.com",
+          "icon": "server"
+        },
+        {
+          "anchor": "Discord Hosting Panel",
+          "href": "https://panel.voxelox.com",
+          "icon": "terminal"
         }
       ]
     }
@@ -102,18 +63,6 @@
       "label": "Client Area",
       "href": "https://clients.voxelox.com"
     }
-  },
-  "contextual": {
-    "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
   },
   "footer": {
     "socials": {
