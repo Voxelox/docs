@@ -7,6 +7,10 @@
     "light": "#3994A8",
     "dark": "#3994A8"
   },
+  "appearance": {
+    "default": "dark",
+    "strict": true
+  },
   "favicon": "/favicon.svg",
   "navigation": {
     "groups": [
