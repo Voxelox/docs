@@ -17,30 +17,30 @@
         ]
       }
     ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://docs.voxelox.com",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Client Area",
-          "href": "https://clients.voxelox.com",
-          "icon": "user"
-        },
-        {
-          "anchor": "VPS Panel",
-          "href": "https://vps.voxelox.com",
-          "icon": "server"
-        },
-        {
-          "anchor": "Discord Hosting Panel",
-          "href": "https://panel.voxelox.com",
-          "icon": "terminal"
-        }
-      ]
-    }
+    "anchors": [
+      {
+        "anchor": "Documentation",
+        "icon": "book-open-cover",
+        "pages": [
+          "index"
+        ]
+      },
+      {
+        "anchor": "Client Area",
+        "href": "https://clients.voxelox.com",
+        "icon": "user"
+      },
+      {
+        "anchor": "VPS Panel",
+        "href": "https://vps.voxelox.com",
+        "icon": "server"
+      },
+      {
+        "anchor": "Discord Hosting Panel",
+        "href": "https://panel.voxelox.com",
+        "icon": "terminal"
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
